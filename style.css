@@ -28,12 +28,12 @@ h4{
     font-size: 12px;
 }
 
-.blue-word {
+.blue-text {
     color: #2DAEE6;
     font-size: 16px;
 }
 
-.grey-word {
+.grey-text {
     color: #808080;
     font-size: 16px;
 }
@@ -61,21 +61,25 @@ h4{
     width: 30%;
 }
   
-  .tab{
+.tab{
     margin-top: 20px;
     text-align: left;
 }
   
-  table{
+table{
     border-collapse: collapse;
 }
   
-  thead{
+thead{
     color: white;
     background-color: #20A9E5 ;
 }
   
-  .td-1{
+.td-cyan{
     background-color: #B1E5F2 ;
 }
 /* fine della tabella azzurra  */
+
+.final-text{
+    margin-top: 20px;
+}
