@@ -16,8 +16,16 @@
 
 }
 
+.content{
+    padding: 10px;
+}
+
 h1{
     font-size: 40px;
+}
+
+h4{
+    font-size: 12px;
 }
 
 .blue-word {
@@ -35,5 +43,16 @@ h1{
     color: #808080;
 }
 
+.main-photos{
+    margin-top: 10px;
+}
+
+.yellow-text{
+    background-color: #fff600;
+}
     
+.list{
+    margin-top: 20px;
+    margin-left: 10px;
+}
     
