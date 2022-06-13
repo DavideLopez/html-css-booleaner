@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainheader{
+    background-image: url(img/pattern.png);
+    background-size: repeat;
+    background-color: #6bb9f9;
+    height: 100px;
+}
+
+.booleaners{
+    height: 50px;
+    margin-top: 50px;
+
+}
